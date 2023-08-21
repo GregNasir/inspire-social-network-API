@@ -25,20 +25,15 @@ The inspire social network API, is a backend application that allows users to cr
 This application provided me with the opporturnity to write APIs, that connected with MongoDB. This exposed me to the power and flexibilty this database system provides.
 
 ## Repository and deployed site
-* <a href="https://github.com/GregNasir/inspire-tech-blog">Inspire Tech Blog Repository</a>
+* <a href="https://github.com/GregNasir/inspire-social-network-API">Inspire Tech Blog Repository</a>
   
-* <a href="https://inspire-tech-blog-9d94a91a774d.herokuapp.com/">Inspire Tech Blog</a>
-
-<img width="1950" alt="Productivity-Pal-screen-shot" src="https://github.com/GregNasir/productivity-pal/assets/63434657/4abe273d-0dbc-4978-afd0-c4dff407f25a">
-
-
 ## Installation
 
-Please visit the app [here](https://productivity-pal-a83731041d87.herokuapp.com/) and visit the repo [here](https://github.com/GregNasir/productivity-pal)
+Fork repositroy. Create your own file and use a text editor of your choice. You need to install Node.js, and in extention npm. Also to be able to have a flexible database, install MongoDB from their website. To test APIs written, install <a href="https://insomnia.rest/">Insomnia</a>.
 
 ## Usage
 
-Visit webpage and create and acccount, to post and comment on subjects pretaining to web development.
+Backend application that can create users, add thoughts, add freinds and their reactions
 
 ## Credits
 
@@ -46,6 +41,7 @@ Visit webpage and create and acccount, to post and comment on subjects pretainin
 * <a href="https://www.w3schools.com/">w3schools website</a>
 * <a href="https://developer.mozilla.org/en-US/">MND webdocs</a>
 * <a href="https://stackoverflow.com">Stackoverflow</a>
+* <a href="https://www.mongodb.com/">mongodb website</a>
 
 ## Tests
 
