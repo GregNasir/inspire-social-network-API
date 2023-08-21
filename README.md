@@ -3,7 +3,7 @@ by Gregory Williams
 
 ## Table of Contents
 * [Description](#description)
-* [Repository and demo](#repositoryanddemo)
+* [Repository and Demo](#repository-and-demo)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Tests](#tests)
@@ -13,19 +13,16 @@ by Gregory Williams
 
 ## Description
 
-Inspire Tech Blog provides readers with insights on the ins and outs of web development. By taking deep dives into both front and back-ends, coding intracacies are explored; helping fellow developers to manuever. Various tools were used to create this webpage. They were:
+The inspire social network API, is a backend application that allows users to create, read, update and delete data. User can create a profile with their email, add thoughts, and even add friends. MongoDB was used to store data, due to its speed and flexibility. Other tools used for this application were:
 
 * Javascript 
 * Express
-* MySql
-* Heroku
 * npm modules
-* handlebars
 * dotenv package
 * Run tests using nmp jest
 * Timely commits to GitHub repository to save work
 
-Using handlebars is an easier and effective way to render code to html scripts. Working on this project exposed me to proper usage of this tool.
+This application provided me with the opporturnity to write APIs, that connected with MongoDB. This exposed me to the power and flexibilty this database system provides.
 
 ## Repository and deployed site
 * <a href="https://github.com/GregNasir/inspire-tech-blog">Inspire Tech Blog Repository</a>
