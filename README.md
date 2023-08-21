@@ -33,7 +33,7 @@ Fork repositroy. Create your own file and use a text editor of your choice. You 
 
 ## Usage
 
-Backend application that can create users, add thoughts, add freinds and their reactions
+Backend application that can create users, add thoughts, add freinds and their reactions.
 
 ## Credits
 

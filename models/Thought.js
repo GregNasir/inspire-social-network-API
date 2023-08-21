@@ -63,7 +63,7 @@ const thoughtSchema = new Schema (
 )
 
 
-// get total count of friends
+// get total count of thoughts
 thoughtSchema.virtual('reactionCount')
 .get(function() {
     return this.reactions.length;
