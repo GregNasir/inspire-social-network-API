@@ -26,6 +26,16 @@ This application provided me with the opporturnity to write APIs, that connected
 
 ## Repository and deployed site
 * <a href="https://github.com/GregNasir/inspire-social-network-API">Inspire Tech Blog Repository</a>
+
+<img width="736" alt="Social-Network-API" src="https://github.com/GregNasir/inspire-social-network-API/assets/63434657/90673bb5-35cb-4c40-9077-1ff74760f268">
+
+https://github.com/GregNasir/inspire-social-network-API/assets/63434657/1cc05eca-208c-423e-b314-38e2700c317c
+
+https://github.com/GregNasir/inspire-social-network-API/assets/63434657/19da88b1-8d60-47be-8637-49df7a55d60b
+
+https://github.com/GregNasir/inspire-social-network-API/assets/63434657/9704b13b-ff28-4217-b978-77cf8a6c7807
+
+https://github.com/GregNasir/inspire-social-network-API/assets/63434657/9a66c509-924b-49a5-ad0b-6de173550cf3
   
 ## Installation
 
